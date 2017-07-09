@@ -25,7 +25,7 @@ SECRET_KEY = '*!cxuee80l$*r1anen1m@eyl@2$*7d!bw040!h^w%iqu2ezlfi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<rabella>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rabella.pythonanywhere.com']
 
 
 # Application definition
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'CA'
+TIME_ZONE = 'America/Los_Angeles'
 
 USE_I18N = True
 
